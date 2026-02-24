@@ -1,2 +1,24 @@
 on 24/02/2026 i have practiced linix commands that has been assigned to do , and created datbase ,schema, table on snowflake
 And i have started informatica architechture
+linix used commands 
+ ls – List files and directories
+    pwd – Print working directory
+    cd – Change directory
+    mkdir – Create directory
+    rmdir – Remove empty directory
+    touch – Create empty file / update timestamp
+    cp – Copy files/directories
+    mv – Move or rename files/directories
+    rm – Remove files/directories
+    stat – File information
+    find – Search files/directories  
+    cat – View file content
+    less – View file page by page
+    more – View file (basic pager)
+    head – Show first lines of file
+    tail – Show last lines of file
+    tail -f – Live file monitoring
+    nano – Simple editor--------------- we have to download seperately to install this----> apt install nano
+    vi / vim – Advanced editor
+    cls - clear the terminal 
+
